@@ -1,0 +1,8 @@
+nicegui
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+requests
+scipy

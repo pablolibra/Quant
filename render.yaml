@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: quantium
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+    envVars: []
